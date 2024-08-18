@@ -86,14 +86,14 @@ Senior Technologist with extensive experience in Data Analytics, Machine Learnin
   - **Modeling Techniques**: Regression, Classification, Clustering, Time Series Analysis, Decision Trees, Random Forests, Support Vector Machines (SVMs), Ensemble Methods
 - **Generative AI**:  
   - **Models**: GPT-4, Gemini 1.5 Pro, Claude 3  
-  - **Experience**: Developing and deploying generative models, including LLMs  
+  - **Experience**: Leveraged cloud platforms such as Microsoft Azure and Google Cloud Platform (GCP) to fine-tune, and deploy customized generative models incorporating Large Language Models (LLMs).    
 - **Cloud Technologies**: Azure, Google Cloud Platform (GCP)  
 - **Version Management**: TFS  
 - **Data Visualization**: Basic Tableau, Matplotlib, Seaborn, Advanced Excel Dashboards  
-- **MLOps**: Docker, Kubernetes, CI/CD pipelines, Model Deployment & Monitoring  
+- **MLOps**: Familiarity with containerization technology (Docker), cluster management (Kubernetes), continuous integration / deployment practices, and model monitoring techniques   
 - **Image Analytics**: Basic experience with OpenCV, Scikit-Image  
-- **Big Data**: Hadoop, Spark  
-- **Other Tools**: Jupyter, VS Code, C#
+- **Big Data**: Experience with Google Cloud BigQuery and familiarity with concepts surrounding Hadoop and Spark.  
+- **Other Tools**: Jupyter, VS Code, C#, MATLAB & Simuink, Rest API
  
 ---
  
